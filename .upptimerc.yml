@@ -1,29 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Grambling State University # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Grambling State University
+    url: https://www.gram.edu
+  - name: Office 365
+    url: http://outlook.com/owa/GramblingState.onmicrosoft.com
+  - name: BannerWeb
+    url: https://ssb-prod.ec.gram.edu/PROD/twbkwbis.P_GenMenu?name=homepage
+  - name: Canvas
+    url: https://grambling.instructure.com/
+  - name: GSU Portal-SSO
+    url: https://portal.gram.edu/
+  - name: Employment
+    url: https://www.schooljobs.com/careers/gram
+  - name: PROD-Banner9
+    url: https://appnav-prod.ec.gram.edu/applicationNavigator
+  - name: PROD-Argos, Intellecheck, FormFusion
+    url: https://maps-prod.ec.gram.edu/
+  - name: PROD - Degree Works Dashboard
+    url: https://dw-prod.ec.gram.edu/dashboard/
+  - name: PROD - Degree Works Scribe
+    url: https://dw-prod.ec.gram.edu/scribe/
+  - name: PROD - Degree Works Composer
+    url: https://dw-prod.ec.gram.edu/composer/
+  - name: PROD - Degree Works Controller
+    url: https://dw-prod.ec.gram.edu/controller/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.gram.edu
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.gram.edu/images/Glogo_wordmark_gld_rnd.png
+  name: GSU Status Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: GSU ITC
+      href: https://www.gram.edu/offices/infotech/
+    - title: Helpdesk
+      href: https://www.gram.edu/offices/infotech/trackit.php
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
