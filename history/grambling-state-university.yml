@@ -1,7 +1,7 @@
 url: https://www.gram.edu
-status: up
-code: 200
-responseTime: 3485
-lastUpdated: 2023-08-22T23:19:05.128Z
+status: down
+code: 500
+responseTime: 330
+lastUpdated: 2023-08-23T20:19:47.674Z
 startTime: 2023-08-02T21:43:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
