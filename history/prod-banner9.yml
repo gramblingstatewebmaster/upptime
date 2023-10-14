@@ -1,7 +1,7 @@
 url: https://appnav-prod.ec.gram.edu/applicationNavigator
-status: down
-code: 503
-responseTime: 398
-lastUpdated: 2023-10-14T15:34:33.353Z
+status: up
+code: 200
+responseTime: 7165
+lastUpdated: 2023-10-14T15:47:17.009Z
 startTime: 2023-08-02T21:43:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
