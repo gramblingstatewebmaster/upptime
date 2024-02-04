@@ -1,7 +1,7 @@
 url: https://ssb-prod.ec.gram.edu/PROD/twbkwbis.P_GenMenu?name=homepage
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2024-02-03T23:14:43.115Z
+status: down
+code: 503
+responseTime: 306
+lastUpdated: 2024-02-04T03:13:41.300Z
 startTime: 2023-08-02T21:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
