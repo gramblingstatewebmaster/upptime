@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-03-16": 477,
+      "2024-03-16": 500,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -221,19 +221,19 @@
     "url": "https://www.schooljobs.com/careers/gram",
     "icon": "https://icons.duckduckgo.com/ip3/www.schooljobs.com.ico",
     "slug": "employment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 510,
-    "timeDay": 226,
-    "timeWeek": 531,
-    "timeMonth": 524,
+    "timeDay": 402,
+    "timeWeek": 537,
+    "timeMonth": 525,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2024-03-16": 1,
+      "2024-03-16": 23,
       "2024-03-13": 23
     }
   },
@@ -295,7 +295,7 @@
     "timeMonth": 207,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2024-03-16": 477,
+      "2024-03-16": 500,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 30,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-03-16": 477,
+      "2024-03-16": 500,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -715,7 +715,7 @@
     "timeMonth": 29,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2024-03-16": 477,
+      "2024-03-16": 500,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 29,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2024-03-16": 477,
+      "2024-03-16": 500,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
